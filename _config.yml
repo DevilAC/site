@@ -6,7 +6,7 @@ email: mylisk@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, SkyLee Blog, SkyLee的博客"
 url: "http://skylee.gitee.io"          # your host, for absolute URL
-baseurl: ""
+baseurl: "site"
 #baseurl: "/bom" # the subpath of your site, e.g. /blog      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://gitee.com/skylee/gitblog" # you code repository
 

@@ -1,14 +1,14 @@
 # Site settings
-title: SkyLee Blog
-SEOTitle: Sky Lee | BLOG
+title: 张哲轩殿下的网站
+SEOTitle: LoradAC | BLOG
 header-img: img/post-bg-desk.jpg
 email: mylisk@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, SkyLee Blog, SkyLee的博客"
-url: "http://skylee.gitee.io"          # your host, for absolute URL
+keyword: "张哲轩殿下的博客"
+url: "https://devilac.github.io/site/"          # your host, for absolute URL
 baseurl: "/site"
 #baseurl: "/bom" # the subpath of your site, e.g. /blog      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://gitee.com/skylee/gitblog" # you code repository
+github_repo: "https://github.com/DevilAC/site" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

@@ -16,19 +16,6 @@ sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/WX20190805-183950@2x.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
-# SNS settings
-RSS: false
-# weibo_username:     skylee
-# zhihu_username:     skylee
-# github_username:    skylee
-# facebook_username:  skylee
-# jianshu_username:   skylee
-#twitter_username:   skylee
-
-
-
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
@@ -56,20 +43,6 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: ckjcode
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 3bea69473b3a33474b94                            #生成的clientID
-  clientSecret: 0bc2fff2064a2e3d6fa0068641c0e31eedee6fd8    #生成的clientSecret
-  repo: ChengKeJ.github.io    #仓库名称
-  owner: ChengKeJ    #github用户名
-  admin: ChengKeJ
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
 
 # 统计
 
@@ -91,28 +64,6 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-
-
- #Friends
-#  friends: [
-#      {
-#          title: "WY",
-#          href: "http://zhengwuyang.com"
-#      },{
-#          title: "简书·BY",
-#          href: "http://www.jianshu.com/u/e71990ada2fd"
-#      },{
-#          title: "Apple",
-#          href: "https://apple.com"
-#      },{
-#          title: "Apple Developer",
-#          href: "https://developer.apple.com/"
-#      }
-#  ]
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
